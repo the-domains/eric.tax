@@ -1,0 +1,28 @@
+name: eric.tax
+favicon: null
+layout_spectrum: 0.8685032264329493
+typography_spectrum: 0.12402244261465967
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.24361754930578172
+  lightness: 0.45739035797305405
+  saturation: 0.8129019318148494
+  rhythmicContrast: 0.18945094104856253
+purpose: []
